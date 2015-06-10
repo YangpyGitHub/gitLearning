@@ -1,2 +1,6 @@
 hello1
+<<<<<<< HEAD
 work_branch_confilict_test_blame_test
+=======
+work_branch_confilict_test
+>>>>>>> e0f1d1333d6cee9a13b774b9164d27eb20c10d4d
