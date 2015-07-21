@@ -1,10 +1,2 @@
+in branch2
 hello1
-<<<<<<< HEAD
-work_branch_confilict_test_blame_test
-reset test
-=======
-hello2
-hello3
-testforworkbranch1
-add new line for test
->>>>>>> work2
